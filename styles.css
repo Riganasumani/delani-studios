@@ -1,4 +1,15 @@
- body{
-     background-image: none;
-     background-color: darkgray;
+ html, body{
+     height: 50%;
+     font-size: 110%;
  }
+ 
+ .home{
+     background: url(./image/home.jpg);
+     height: 20vh;
+ }
+.about-section,.services{
+    background-image: url(./image/s_image.jpg);
+}
+.worksection{
+    background-image: url(./image/c_image.jpg);
+}
